@@ -4,3 +4,20 @@
     height: 150px;
     color: rgb(204, 69, 143);
 }
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pretty-header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color: white;
+    align-content: center;
+}
+
+body {
+    background: rgb(50, 157, 207);
+}
